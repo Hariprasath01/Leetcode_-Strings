@@ -10,7 +10,6 @@ public:
               s[j]=safe;
               i++;
               j--;
-
         }
         else 
             {
