@@ -79,7 +79,6 @@ for(;b>0;b--){
 if(count==1){
     return len;
 }
-
 if(count1>1){
           for(;c>0;c--){
           if(s[c]!=' '){
